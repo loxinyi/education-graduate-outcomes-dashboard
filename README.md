@@ -44,13 +44,12 @@ The broader dashboards also include visuals and insights contributed by teammate
 
 The screenshots are included for a quick portfolio preview. The source `.pbix` report and underlying data files are not included in this public-facing starter package. This means the screenshots are viewable here, but the report is not executable from this repository alone.
 
-## Attribution and publication
+## Attribution
 
-Created as a collaborative academic assignment at Singapore Polytechnic. The dashboards contain teammates' visualisations; appropriate collaborator credit and permission should be confirmed before any public publication. Source dataset credits and licence information should also be added after verification.
+This project was developed as part of a collaborative Data Visualisation assignment at Singapore Polytechnic, focusing on SDG 4 (Quality Education) and SDG 8 (Decent Work and Economic Growth).
 
-## Possible extensions
-
-- Document dataset links and definitions for each visual
-- Add a focused dashboard page dedicated to the two individually authored analyses
-- Review chart titles, truncated labels, and the use of percentages versus counts
-- Include an approved `.pbix` file if source data and group permissions allow publication
+**My Contributions:**
+- Developed Power BI visualisations to analyse Singapore's education and qualification trends.
+- Analysed mean years of schooling by gender from 1985 to 2023.
+- Examined changes in residents' highest educational qualifications from 2000 to 2023.
+- Interpreted trends and presented insights on educational progress and workforce readiness.
